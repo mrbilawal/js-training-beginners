@@ -1,0 +1,1 @@
+console.log("Welcome to All new Interns and Students")
